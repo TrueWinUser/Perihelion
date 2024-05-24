@@ -1,0 +1,27 @@
+{
+    "temp_name": "Alpha Centauri & Beta Centauri & Proxima Centauri",
+    "alpha": {
+        "mass": 1.14,
+        "x": 0,
+        "y": -100,
+        "vel": [1000, 200000],
+        "rad": 1.23,
+        "color": [250, 221, 77]
+    },
+    "beta": {
+        "mass": 0.91,
+        "x": -150,
+        "y": 100,
+        "vel": [3000000, 0],
+        "rad": 0.87,
+        "color": [250, 221, 77]
+    },
+    "proxima": {
+        "mass": 0.12,
+        "x": 150,
+        "y": 200,
+        "vel": [-2000000, 0],
+        "rad": 0.15,
+        "color": [250, 0, 0]
+    }
+}
